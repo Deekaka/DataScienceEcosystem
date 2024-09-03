@@ -1,2 +1,0 @@
-# DataScienceEcosystem
-Data Science Assignment
